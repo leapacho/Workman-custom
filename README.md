@@ -11,6 +11,12 @@ When learning cold-turkey, try printing the included keyboard image as a desk re
 
 **Only the Xorg version (in the Xorg folder) has been modified. Other versions have been left untouched.**
 
+## Images
+### Limonero's modifications:
+<img width="940" height="292" alt="workmancustom_layout" src="https://github.com/user-attachments/assets/af763671-21f6-4add-a0a1-f2a29749fa7e" />
+### Original layout:
+<img width="869" height="290" alt="workman_layout" src="https://github.com/user-attachments/assets/4bf27bce-9c01-4181-9bf7-360f76e8dc44" />
+
 ## Important design notes
 
 The original Workman-P proposal by OJ Bucao sought to reverse keys for backtick (`) and brackets ([]), however when considering the Objective-C and PHP programming languages, both make heavy use of the original, primary characters. Swapping them makes those frequent characters more work. **In this repository, only the number keys are reversed** to special characters.
