@@ -1,3 +1,5 @@
+The modified Workman layout is 'workmancustom'.
+
 Go to the directory where you have downloaded workman:
 sudo cp xorg/workman /etc/X11/xkb/symbols/workman
 (for ubuntu 10.04) Type: sudo cp workman /usr/share/X11/xkb/symbols/workman 
