@@ -13,7 +13,7 @@ When learning cold-turkey, try printing the included keyboard image as a desk re
 
 ## Images
 ### Limonero's modifications:
-<img width="849" height="278" alt="workmancustom_layout" src="https://github.com/user-attachments/assets/d4e1e153-8dbc-41ef-b42b-748b5bcbe839" />
+<img width="833" height="274" alt="workmancustom_layout" src="https://github.com/user-attachments/assets/d8e2a59c-2415-46d0-8f29-920091225499" />
 
 ### Original layout:
 <img width="869" height="290" alt="workman_layout" src="https://github.com/user-attachments/assets/4bf27bce-9c01-4181-9bf7-360f76e8dc44" />
