@@ -3,7 +3,7 @@ Workman keyboard layouts
 
 Workman keyboard layout originally proposed by OJ Bucao at https://workmanlayout.org.
 
-This is Limonero's fork, which adds many keys involving the Spanish language, such as diacritics, the N tilde, and more. You can check out the changes in the included layout image.
+This is Limonero's fork, which adds many keys involving the Spanish language, such as including the dead acute key (´), the N tilde (ñ), second-layer number top row changes, and more. You can check out the changes in the included layout image.
 
 When learning cold-turkey, try printing the included keyboard image as a desk reference.
 
