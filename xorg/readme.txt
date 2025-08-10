@@ -1,10 +1,12 @@
-The modified Workman layout is 'workmancustom'.
+The modified Workman layout is 'workmancustom'. 
 
 Go to the directory where you have downloaded workman:
 sudo cp xorg/workman /etc/X11/xkb/symbols/workman
 (for ubuntu 10.04) Type: sudo cp workman /usr/share/X11/xkb/symbols/workman 
 
 Type: setxkbmap -v workman && xset r 66 
+OR
+Type: setxkbmap -v workmancustom && xset r 66 (no idea if this works though, I haven't tried)
 
 You should get something similar to this:
 Warning! Multiple definitions of keyboard layout
