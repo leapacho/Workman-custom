@@ -3,13 +3,13 @@ Workman keyboard layouts
 
 Workman keyboard layout originally proposed by OJ Bucao at https://workmanlayout.org.
 
-This is Limonero's fork, which adds many keys involving the Spanish language, such as diacritics, the N tilde, and more. 
+This is Limonero's fork, which adds many keys involving the Spanish language, such as diacritics, the N tilde, and more. You can check out the changes in the included layout image.
+
+When learning cold-turkey, try printing the included keyboard image as a desk reference.
 
 ## ⚠️ IMPORTANT WARNING ⚠️
 
 **Only the Xorg version (in the Xorg folder) has been modified. Other versions have been left untouched.**
-
-When learning cold-turkey, try printing the included keyboard image as a desk reference.
 
 ## Important design notes
 
